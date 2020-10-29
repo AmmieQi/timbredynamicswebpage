@@ -8,10 +8,12 @@ layout: default
 
 ## Reconstruction
 
-Original/VAE/VRNN-Attr
+Samples were encoded and decoded by the model. 
+Strange blips sometimes present at the end of notes are caused by CREPE not estimating fundamental frequency correctly. Samples are played in order of Original->VAE->VRNN-Inst. All models have around 500k~530k parameters.
 
-Samples 
-Strange blips sometimes present at the end of notes are caused by CREPE not estimating fundamental frequency correctly.
+Brass: 
+
+
 
 ## Generation
 
